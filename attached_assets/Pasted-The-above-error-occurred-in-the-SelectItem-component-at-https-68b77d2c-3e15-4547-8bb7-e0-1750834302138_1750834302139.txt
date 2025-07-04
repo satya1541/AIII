@@ -1,0 +1,40 @@
+The above error occurred in the <SelectItem> component:
+
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-select.js?v=431a7e4b:1910:7
+    at _c11 (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/src/components/ui/select.tsx:208:13)
+    at div
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-BOL2CCOG.js?v=431a7e4b:42:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:79:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:56:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-NAYXMZKV.js?v=431a7e4b:39:15
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-select.js?v=431a7e4b:1821:13
+    at div
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:79:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:56:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-NAYXMZKV.js?v=431a7e4b:39:15
+    at Provider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-U7IHIBNQ.js?v=431a7e4b:32:15)
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-select.js?v=431a7e4b:1364:58
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:79:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=431a7e4b:56:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-BOL2CCOG.js?v=431a7e4b:42:13
+    at https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-NYZHEEMK.js?v=431a7e4b:258:22
+    at SelectPortal
+    at _c7 (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/src/components/ui/select.tsx:123:12)
+    at Provider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-U7IHIBNQ.js?v=431a7e4b:32:15)
+    at Provider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-U7IHIBNQ.js?v=431a7e4b:32:15)
+    at CollectionProvider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-NAYXMZKV.js?v=431a7e4b:29:13)
+    at Provider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-U7IHIBNQ.js?v=431a7e4b:32:15)
+    at Provider (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-U7IHIBNQ.js?v=431a7e4b:32:15)
+    at Popper (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AFVKDBAR.js?v=431a7e4b:1931:11)
+    at Select (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-select.js?v=431a7e4b:1152:5)
+    at div
+    at div
+    at div
+    at _c9 (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at AiInsightsPage (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/src/pages/ai-insights.tsx:28:47)
+    at Route (https://68b77d2c-3e15-4547-8bb7-e044de53a848-00-3pns9qiez33lb.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=431a7e4b:323:16)
+    at Switch…
+A  must have a value prop that is not an empty string. This is because the Select value can be set to an empty string to clear the selection and show the placeholder.

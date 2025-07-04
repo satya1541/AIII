@@ -1,0 +1,81 @@
+connecting...
+client:536 WebSocket connection to 'wss://e2631a9d-15b3-4bc8-8844-80bc28b59d6d-00-2m8d6rblzu2be.spock.replit.dev/?token=vhlZzIyWxO6S' failed: 
+setupWebSocket @ client:536
+client:536 Uncaught (in promise) SyntaxError: Failed to construct 'WebSocket': The URL 'wss://localhost:undefined/?token=vhlZzIyWxO6S' is invalid.
+    at setupWebSocket (client:536:19)
+    at fallback (client:509:16)
+    at WebSocket.<anonymous> (client:555:7)
+react-dom.development.js:29895 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+api/auth/me:1 
+            
+            
+           Failed to load resource: the server responded with a status of 401 (Unauthorized)
+e2631a9d-15b3-4bc8-8844-80bc28b59d6d-00-2m8d6rblzu2be.spock.replit.dev/:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" class=​"flex h-10 w-full rounded-md border-input bg-background px-3 py-2 text-sm ring-offset-background file:​border-0 file:​bg-transparent file:​text-sm file:​font-medium placeholder:​text-muted-foreground focus-visible:​outline-none focus-visible:​ring-2 focus-visible:​ring-ring focus-visible:​ring-offset-2 disabled:​cursor-not-allowed disabled:​opacity-50 glass-morphism-dark border-0" id=​"password" name=​"password" placeholder=​"Enter your password">​
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+realtime-analytics.tsx:145 WebSocket connection to 'wss://e2631a9d-15b3-4bc8-8844-80bc28b59d6d-00-2m8d6rblzu2be.spock.replit.dev/ws' failed: WebSocket is closed before the connection is established.
+(anonymous) @ realtime-analytics.tsx:145
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket message received in client: Object
+main.tsx:101 WebSocket closed unexpectedly, attempting reconnect...
+realtime-analytics.tsx:91 WebSocket connection to 'wss://e2631a9d-15b3-4bc8-8844-80bc28b59d6d-00-2m8d6rblzu2be.spock.replit.dev/ws' failed: 
+connect @ realtime-analytics.tsx:91
+use-websocket.ts:26 WebSocket connection to 'wss://e2631a9d-15b3-4bc8-8844-80bc28b59d6d-00-2m8d6rblzu2be.spock.replit.dev/ws' failed: 
+connect @ use-websocket.ts:26
+use-websocket.ts:74 WebSocket error occurred, will attempt reconnect
+ws.current.onerror @ use-websocket.ts:74
+main.tsx:101 WebSocket closed unexpectedly, attempting reconnect...
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket connected successfully for real-time charts
+main.tsx:101 WebSocket message received in client: Object

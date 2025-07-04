@@ -1,0 +1,30 @@
+react-dom.development.js:86 Warning: Received NaN for the `cx` attribute. If this is expected, cast the value to a string.
+    at circle
+    at svg
+    at div
+    at LineChart (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/advanced-charts.tsx:338:24)
+    at div
+    at _c9 (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at AdvancedCharts (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/advanced-charts.tsx:23:42)
+    at div
+    at Analytics (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/pages/analytics.tsx:30:55)
+    at Route (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.repli…/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=0a69450b:323:16)
+    at Switch (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.repli…/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=0a69450b:379:17)
+    at ErrorBoundary (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/error-boundary.tsx:9:5)
+    at main
+    at div
+    at Layout (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/layout.tsx:47:34)
+    at ErrorBoundary (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/error-boundary.tsx:9:5)
+    at Router
+    at Provider (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.repli…unner/workspace/node_modules/.vite/deps/chunk-ABEKALA5.js?v=0a69450b:22:15)
+    at TooltipProvider (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.repli…rkspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=0a69450b:57:5)
+    at ThemeProvider (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/theme-provider.tsx:25:3)
+    at QueryClientProvider (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.repli…rkspace/node_modules/.vite/deps/@tanstack_react-query.js?v=0a69450b:2805:3)
+    at ErrorBoundary (https://0ba61a08-cb86-4704-8766-12e1772dae03-00-2kk40v4ethgmg.janeway.replit.dev/src/components/error-boundary.tsx:9:5)
+    at App
+printWarning	@	react-dom.development.js:86
+react-dom.development.js:798 Error: <circle> attribute cx: Expected length, "NaN".
+setValueForProperty	@	react-dom.development.js:798

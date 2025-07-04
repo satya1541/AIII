@@ -1,0 +1,11 @@
+Error: A <Select.Item /> must have a value prop that is not an empty string. This is because the Select value can be set to an empty string to clear the selection and show the placeholder.
+    at https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-select.js?v=78d8891f:871:13
+    at renderWithHooks (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:11548:26)
+    at updateForwardRef (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:14325:28)
+    at beginWork (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:15946:22)
+    at beginWork$1 (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:19753:22)
+    at performUnitOfWork (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:19198:20)
+    at workLoopSync (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:19137:13)
+    at renderRootSync (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:19116:15)
+    at recoverFromConcurrentError (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:18736:28)
+    at performSyncWorkOnRoot (https://d811d478-e681-4945-b082-c420c8747c25-00-godobclp6xyf.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-RPCDYKBN.js?v=ef36ff61:18879:28)
